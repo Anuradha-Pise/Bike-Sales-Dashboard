@@ -1,5 +1,8 @@
 # Bike-Sales-Dashboard
 
+# Link:
+https://app.powerbi.com/reportEmbed?reportId=5c68ce6c-18b7-415c-b210-1b8da64d9694&autoAuth=true&ctid=74ce676a-aa6e-41c1-bc31-f80e23d060ce
+
 # Output:
 
 ![image](https://github.com/Anuradha-Pise/Bike-Sales-Dashboard/assets/70841033/a10cc87f-b9a7-4713-b0c5-7165bc4587c7)
